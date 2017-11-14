@@ -25,6 +25,7 @@ def impressao_menu_help():
     print()
     print('--------------------------------------------- [ HELP ] ----------------------------------------------')
     print()
+    print()
 
 
 comandos_sistema = sys.argv
