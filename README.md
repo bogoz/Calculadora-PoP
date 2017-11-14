@@ -1,15 +1,15 @@
 # Calculadora-PoP
-Calculadora Popular, com Juros Compostos
+Calculadora Popular, com Juros Compostos integrado.
 
-Usando para fazer o projeto a IDE PyCharm
+Calculadora Linha De Comando (CLI)
 
-Calculadora Linha De Comando
+Usando a IDE PyCharm para fazer o projeto.
 
 Autor: Washington Ferreira Prata (BoGoZ)
 
 Brasilia, 30 De Outubro De 2017
 
----------------------------------------------- [ Calculadora PoP 1.1 ] -----------------------------------------------
+---------------------------------------------- [ Calculadora PoP 1.1 ] ----------------------------------------------
 
 ------------------------------------------------------ [ HELP ] ------------------------------------------------------
 
