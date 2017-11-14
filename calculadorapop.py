@@ -9,7 +9,7 @@ import re
 
 def impressao_menu_help():
     print()
-    print('------------------------------------ [ Calculadora PoP 1.0 ] ------------------------------------')
+    print('------------------------------------- [ Calculadora PoP 1.1 ] ---------------------------------------')
     print()
     print('Autor: Washington Ferreira Prata (BoGoZ) | GitHub: https://github.com/bogoz')
     print()
